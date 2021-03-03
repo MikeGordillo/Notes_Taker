@@ -42,7 +42,7 @@ const editNote = function (id) {
 // If there is an activeNote, display it, otherwise render empty inputs
 const renderActiveNote = function () {
     console.log("Asi se hace!")
-    // $saveNoteBtn.hide();
+    $saveNoteBtn.hide();
 
     if (activeNote.id) {
         $noteTitle.attr("readonly", true);
@@ -73,7 +73,7 @@ const handleNoteSave = function () {
 const handleEdit = function (event) {
     event.stopPropagation();
     handleNoteView();
-    console.log("got here")
+    console.log("Aqui tambien")
     const note = $(this)
         .parent(".list-group-item")
         .data();
