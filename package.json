@@ -1,0 +1,26 @@
+{
+  "name": "Notes_Taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeGordillo/Notes_Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeGordillo/Notes_Taker/issues"
+  },
+  "homepage": "https://github.com/MikeGordillo/Notes_Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "install": "^0.13.0",
+    "path": "^0.12.7"
+  }
+}
