@@ -41,7 +41,7 @@ const editNote = function (id) {
 
 // If there is an activeNote, display it, otherwise render empty inputs
 const renderActiveNote = function () {
-    console.log("got here active note")
+    console.log("Asi se hace!")
     // $saveNoteBtn.hide();
 
     if (activeNote.id) {
