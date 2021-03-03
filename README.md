@@ -1,7 +1,7 @@
 # Notes Taker
 ![License Badge](https://img.shields.io/static/v1?label=License&message=None&color=blue)
 
-![video]()
+![video](./public/assets/)
 
         
 ## Name:Mike Gordillo
@@ -36,4 +36,4 @@ browser and will be ready to use.
 ![screenshot](./public/assets/takingNotes.png)
 
 
-https://github.com/MikeGordillo/
+https://github.com/MikeGordillo/Notes_Taker
