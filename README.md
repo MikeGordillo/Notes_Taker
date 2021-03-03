@@ -32,6 +32,8 @@ browser and will be ready to use.
 ## Questions:
 * Contact Mike Gordillo with any questions at mikegordillotattoo@gmail.com
 
-![screenshot]()
+![screenshot](./public/assets/notesTaker.png)
+![screenshot](./public/assets/takingNotes.png)
+
 
 https://github.com/MikeGordillo/
