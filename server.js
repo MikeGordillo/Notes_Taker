@@ -92,10 +92,11 @@ app.put("/api/notes/:id", function (req, res) {
             if (error) {
                 return error
             }
-            res.json(notes)
+            res.json(notes);
         })
     })
 })
+
 
 // Starts the server to begin listening
 // =============================================================
