@@ -37,4 +37,6 @@ browser and will be ready to use.
 
 https://github.com/MikeGordillo/Notes_Taker
 
+https://mikegordillo.github.io/Notes_Taker/
+
 https://taking-the-notes.herokuapp.com/
