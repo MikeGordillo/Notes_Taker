@@ -32,7 +32,9 @@ browser and will be ready to use.
 * Contact Mike Gordillo with any questions at mikegordillotattoo@gmail.com
 
 ![screenshot](./public/assets/notesTaker.png)
-![screenshot](./public/assets/takingNotes.png)
+![screenshot](./public/assets/notesTakerApp.png)
 
 
 https://github.com/MikeGordillo/Notes_Taker
+
+https://taking-the-notes.herokuapp.com/
